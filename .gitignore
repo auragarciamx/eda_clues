@@ -140,7 +140,8 @@ temp_*.pkl
 *.xlsx
 *.csv
 *.json
-data/
+data/*
+!data/README.md
 
 # IDE files
 .vscode/
