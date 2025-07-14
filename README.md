@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Análisis Exploratorio de Datos (EDA) - CLUES 2025
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
@@ -210,4 +211,4 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 **📅 Fecha de creación**: Diciembre 2024  
 **🏷️ Versión**: 1.0.0  
 **🐍 Lenguaje**: Python 3.7+  
-**📊 Última actualización**: 14 de Diciembre, 2024 
+**📊 Última actualización**: 14 de Diciembre, 2024
