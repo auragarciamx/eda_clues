@@ -136,11 +136,11 @@ dmypy.json
 *.temp
 temp_*.pkl
 
-# Large data files (optional - uncomment if you don't want to track large datasets)
-# *.xlsx
-# *.csv
-# *.json
-# data/*.xlsx
+# Large data files - no se rastrean por tamaño y privacidad
+*.xlsx
+*.csv
+*.json
+data/
 
 # IDE files
 .vscode/
