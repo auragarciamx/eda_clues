@@ -17,7 +17,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Identificación automatizada de brechas del sistema
 - API para consultas automatizadas
 
-## [1.0.0] - 2024-12-14
+## [1.0.0] - 2025-07-14
 
 ### Added
 - ✨ Análisis exploratorio de datos (EDA) completo del Catálogo CLUES 2025
@@ -83,7 +83,7 @@ eda_clues/
 5. Aprovechar diversidad de tipos para análisis de capacidad
 6. Considerar análisis espacial usando coordenadas
 
-## [0.0.0] - 2024-12-14
+## [0.0.0] - 2025-07-14
 
 ### Initial
 - 🚀 Inicialización del proyecto

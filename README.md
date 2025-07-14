@@ -196,7 +196,7 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ## 📧 Contacto
 
-**Aura García** - [@auragarciamx](https://github.com/auragarciamx)
+**Dr. David Escudero** - davidescudero@avragarcia.com
 
 **Link del Proyecto**: [https://github.com/auragarciamx/eda_clues](https://github.com/auragarciamx/eda_clues)
 
@@ -208,7 +208,7 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ---
 
-**📅 Fecha de creación**: Diciembre 2024  
+**📅 Fecha de creación**: Julio 2025  
 **🏷️ Versión**: 1.0.0  
 **🐍 Lenguaje**: Python 3.7+  
-**📊 Última actualización**: 14 de Diciembre, 2024
+**📊 Última actualización**: 14 de Julio, 2025
